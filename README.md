@@ -10,3 +10,6 @@ The database enforces data integrity with primary keys, foreign keys, unique con
 3. Import or run the SQL script `library_management.sql` by executing:
    ```sql
    SOURCE /path/to/library_management.sql;
+
+   
+![library management ERD](https://github.com/user-attachments/assets/ca61ee41-d2a8-4f60-a3b2-a943010cf82f)
